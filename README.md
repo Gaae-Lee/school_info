@@ -1,1 +1,1 @@
-# school_info
+# my_homepage
